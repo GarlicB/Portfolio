@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">졸업작품</string>
+    <string name="num">00000000000</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="statecnt_view">CH/TR</string>
+    <string name="select_view">코드</string>
+    <string name="start">▶</string>
+    <string name="stop">■</string>
+    
+    <string name="mc1_1">코드 생성</string>
+    <string name="mc1_2">코드 수정</string>
+    <string name="mc2">코드를 선택해주세요</string>
+    <string name="mc4_1">처음으로</string>
+    <string name="mc4_2">해당 코드로 구성된 곡 알아보기</string>
+  
+    <string name="make_cnt">채널/트랙을 생성해주세요</string>
+    
+    <string name="op1">옵션1</string>
+    <string name="op2">옵션2</string>
+    <string name="op3">옵션3</string>
+    <string name="op4">옵션4</string>
+    <string name="op5">옵션5</string>
+    <string name="left">◁</string>
+    <string name="right">▷</string>
+    <string name="shchn">채널0</string>
+    <string name="shtrk">트랙0</string>
+    <string name="shall">전체</string>
+    <string name="shap">Chord</string>
+    <string name="confirm_t">트랙 적용</string>
+    <string name="confirm_c">채널 적용</string>
+    <string name="close">닫기</string>
+    
+    <string name="save_proj">저장하기</string>
+    <string name="load_proj">불러오기</string>
+    <string name="del_proj"> 삭제하기</string>
+    <string name="file_midi">파일출력</string>
+    <string name="file_pdf">악보출력</string>
+    
+    <string name="choose_song">Choose Song</string>
+    <string name="song_settings_str">Song Settings</string>
+    <string name="save_images_str">Save As Images</string>
+    <string name="save_images_descr_str">Save the sheet music as images, in the directory /Pictures/MidiSheetMusic, with the following filename</string>
+    <string name="help_str">Help</string>
+    <string name="sheet_prefs_title">Sheet Music Preferences</string>
+    <string name="restore_defaults">Restore Default Settings</string>
+    <string name="select_tracks_to_display">Select Tracks to Display</string>
+    <string name="select_tracks_to_mute">Select Tracks to Mute</string>
+    <string name="select_instruments_per_track">Select Instruments For Each Track</string>
+    <string name="set_all_to_piano">Set All Instruments to Piano</string>
+    <string name="scroll_vertically">Scroll Vertically</string>
+    <string name="show_piano">Show the Piano</string>
+    <string name="show_lyrics">Show Lyrics</string>
+    <string name="show_note_letters">Show Note Letters</string>
+    <string name="combine_to_two_staffs">Combine To Two Staffs</string>
+    <string name="combine_to_two_staffs_summary">Combine all the tracks into two staffs (left hand and right hand staffs). </string>
+    <string name="split_to_two_staffs">Split Track Into Two Staffs</string>
+    <string name="split_to_two_staffs_summary">Split the single track into two staffs (left hand and right hand staffs).</string>
+    <string name="transpose">Transpose Notes</string>
+    <string name="key_signature">Key Signature</string>
+    <string name="combine_interval">Combine Interval</string>
+    <string name="combine_interval_summary">Notes within the given interval (in milliseconds) are combined into a single chord</string>
+    <string name="right_hand_color">Right Hand Color</string>
+    <string name="left_hand_color">Left Hand Color</string>
+    <string name="show_measures">Show Measure Numbers</string>
+    <string name="play_measures_in_loop_title">Settings for Play Measures in a Loop</string>
+    <string name="play_measures_in_loop">Play Measures in a Loop</string>
+    <string name="play_measures_in_loop_start">Start Measure</string>
+    <string name="play_measures_in_loop_end">End Measure</string>
+    <string name="scan_button_title">Scan SD Card for MIDI files</string>
+    <string name="scan_files_str">Scan for MIDI Files</string>
+    <string name="browse_files_str">Browse for MIDI Files</string>
+	
+    <string name="intent_select">Please select an action:</string>
+</resources>

@@ -1,0 +1,24 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- NORMAL -->
+   <item android:state_focused="false" android:state_pressed="false">
+      <shape>
+         <solid android:color="#000000" />
+         <corners android:radius="50dp" /> 
+          <margin android:bottom="50dp" android:left="50dp"
+                       android:right="50dp" android:top="50dp" />
+      </shape>
+   </item>
+
+<!-- CLICK -->
+   <item android:state_focused="false" android:state_pressed="true">
+      <shape>
+         <solid android:color="#FF0000" />
+         <corners android:radius="50dp" />
+          <margin android:bottom="50dp" android:left="50dp"
+                       android:right="50dp" android:top="50dp" />
+         <gradient android:startColor="#746e71" 
+                       android:endColor="#bababa" 
+                       android:angle="-90"/>
+      </shape>
+   </item>
+</selector>
