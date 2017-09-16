@@ -11,11 +11,11 @@ Here is a list of my works. Each link has a more detailed description.
 Unity 2D game 'Davinchi code'
 
 ### 2014
-Android application 'All of composition'   
+[Android application 'All of composition'](https://github.com/GarlicB/portfolio/tree/master/2014_all_of_composition)   
 
 ### 2013
-OpenGL 3D game 'Sniping Game!'  
-Web page 'convenience store sale'  
+OpenGL 3D game 'Sniping game!'  
+Web page 'Convenience store sale'  
 DBP design  'All of test'  
 Operating system GUI 'Scheduling'  
 
